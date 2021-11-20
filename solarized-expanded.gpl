@@ -1,0 +1,92 @@
+GIMP Palette
+Name: Solarized Expanded
+Columns: 1
+#
+0	43	54	Base03
+7	54	66	Base02
+88	110	117	Base01
+101	123	131	Base00
+131	148	150	Base0
+147	161	161	Base1
+238	232	213	Base2
+253	246	227	Base3
+181	137	0	Yellow
+203	75	22	Orange
+220	50	47	Red
+211	54	130	Magenta
+108	113	196	Violet
+38	139	210	Blue
+42	161	152	Cyan
+133	153	0	Green
+255	228	189	Yellow +4
+250	202	113	Yellow +3
+226	180	86	Yellow +2
+203	158	56	Yellow +1
+181	137	0	Yellow
+143	108	5	Yellow -1
+107	80	1	Yellow -2
+74	54	0	Yellow -3
+42	29	1	Yellow -4
+254	218	213	Orange +4
+255	179	166	Orange +3
+255	136	110	Orange +2
+234	102	65	Orange +1
+203	75	22	Orange
+155	65	40	Orange -1
+124	43	12	Orange -2
+89	27	0	Orange -3
+56	13	0	Orange -4
+255	217	217	Red +4
+255	177	177	Red +3
+255	134	133	Red +2
+252	82	80	Red +1
+220	50	47	Red
+168	50	49	Red -1
+135	27	25	Red -2
+103	2	0	Red -3
+64	0	0	Red -4
+255	216	229	Magenta +4
+255	175	204	Magenta +3
+255	130	180	Magenta +2
+240	87	156	Magenta +1
+211	54	130	Magenta
+162	51	102	Magenta -1
+131	26	78	Magenta -2
+99	0	55	Magenta -3
+63	0	32	Magenta -4
+223	225	254	Violet +4
+192	194	255	Violet +3
+161	165	248	Violet +2
+134	139	221	Violet +1
+108	113	196	Violet
+85	89	158	Violet -1
+61	65	129	Violet -2
+38	42	103	Violet -3
+11	19	82	Violet -4
+215	231	255	Blue +4
+170	208	255	Blue +3
+115	185	255	Blue +2
+79	162	233	Blue +1
+38	139	210	Blue
+54	109	158	Blue -1
+20	82	126	Blue -2
+3	56	90	Blue -3
+1	32	54	Blue -4
+154	249	239	Cyan +4
+129	226	217	Cyan +3
+104	204	195	Cyan +2
+76	182	173	Cyan +1
+42	161	152	Cyan
+1	128	120	Cyan -1
+6	96	90	Cyan -2
+0	65	61	Cyan -3
+2	36	34	Cyan -4
+221	242	138	Green +4
+198	219	112	Green +3
+176	196	86	Green +2
+154	174	55	Green +1
+133	153	0	Green
+105	121	1	Green -1
+78	90	4	Green -2
+52	61	0	Green -3
+28	34	0	Green -4
